@@ -233,6 +233,11 @@ input[type="file"] {
     display: block;
 }
 
+
+  /* iframe {
+    float: left;
+  } */
+
 @media (max-width: 576px) {
     .about-text-area {
         padding: 20px;
